@@ -29,7 +29,7 @@ You can email me at cpodgurschi@gmail.com for help regarding this project.
 
 ## Roadmap
 
-Adding more complex features, like goasts.
+Adding more complex features, like gosts.
 
 ## License information
-No applicable license at this time.  
+No applicable license at this time. 
